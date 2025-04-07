@@ -1,7 +1,9 @@
 # MuseoBot 🤖
+
 <summary>
    LangChain's generative AI chatbot at the National Museum of India delivers a personalized, interactive experience, offering dynamic insights and engaging conversations to enhance visitor exploration and understanding of the museum's cultural treasures.
 </summary>
+
 
 📌 Overview
 MuseBot is an AI-powered virtual museum tour guide chatbot designed to enhance museum experiences by offering personalized, interactive, and informative tours. Users can explore artifacts, exhibits, and historical insights with ease using natural language conversations.
